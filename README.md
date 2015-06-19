@@ -30,7 +30,7 @@ console.log(bsearch.eq(triangles, [3, 5, 7], compareCells) >= 0)
 
 # API
 
-#### `var d = require('compare-cells')(a, b)`
+#### `var d = require('compare-cell')(a, b)`
 Tests if two unordered lists contain the same elements.
 
 * `a, b` are arrays of integers
